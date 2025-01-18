@@ -1,3 +1,15 @@
 [submodule "Common-Core/libft"]
 	path = Common-Core/libft
 	url = https://github.com/houdaifa-boukhari/libft.git
+[submodule "Common-Core/ft_printf"]
+	path = Common-Core/ft_printf
+	url = https://github.com/houdaifa-boukhari/ft_printf.git
+[submodule "Common-Core/get_next_line"]
+	path = Common-Core/get_next_line
+	url = https://github.com/houdaifa-boukhari/get_next_line.git
+[submodule "Common-Core/pipex"]
+	path = Common-Core/pipex
+	url = https://github.com/houdaifa-boukhari/pipex-42-shcool.git
+[submodule "Common-Core/push_swap"]
+	path = Common-Core/push_swap
+	url = https://github.com/houdaifa-boukhari/push_swap.git
