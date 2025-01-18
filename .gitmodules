@@ -1,0 +1,3 @@
+[submodule "Common-Core/libft"]
+	path = Common-Core/libft
+	url = https://github.com/houdaifa-boukhari/libft.git
