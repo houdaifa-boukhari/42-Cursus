@@ -28,3 +28,6 @@
 [submodule "Common-Core/CPP-Modules"]
 	path = Common-Core/CPP-Modules
 	url = https://github.com/houdaifa-boukhari/CPP_42-School.git
+[submodule "42-Pool"]
+	path = 42-Pool
+	url = https://github.com/houdaifa-boukhari/1337-Pool-Projects
