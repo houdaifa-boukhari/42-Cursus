@@ -13,3 +13,6 @@
 [submodule "Common-Core/push_swap"]
 	path = Common-Core/push_swap
 	url = https://github.com/houdaifa-boukhari/push_swap.git
+[submodule "Common-Core/FdF"]
+	path = Common-Core/FdF
+	url = https://github.com/houdaifa-boukhari/fdf_42.git
