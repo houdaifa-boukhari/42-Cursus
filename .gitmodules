@@ -16,3 +16,15 @@
 [submodule "Common-Core/FdF"]
 	path = Common-Core/FdF
 	url = https://github.com/houdaifa-boukhari/fdf_42.git
+[submodule "Common-Core/Philosophers"]
+	path = Common-Core/Philosophers
+	url = https://github.com/houdaifa-boukhari/Philosophers.git
+[submodule "Common-Core/minishell"]
+	path = Common-Core/minishell
+	url = https://github.com/houdaifa-boukhari/mini-shell.git
+[submodule "Common-Core/Cub3D"]
+	path = Common-Core/Cub3D
+	url = https://github.com/houdaifa-boukhari/CUB-3D-42-School
+[submodule "Common-Core/CPP-Modules"]
+	path = Common-Core/CPP-Modules
+	url = https://github.com/houdaifa-boukhari/CPP_42-School.git
